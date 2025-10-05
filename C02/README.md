@@ -1,1 +1,1 @@
-distancs.c does not work as intended.
+distances.c does not work as intended.
